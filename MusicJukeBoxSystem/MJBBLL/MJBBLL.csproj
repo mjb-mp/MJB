@@ -45,10 +45,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CustomerEntity\CustomerEntity.csproj">
-      <Project>{8a3673f8-c96d-442a-aac0-0075e406a700}</Project>
-      <Name>CustomerEntity</Name>
-    </ProjectReference>
     <ProjectReference Include="..\MJBException\MJBException.csproj">
       <Project>{7d329a56-0dd6-487d-8827-2d9a9c48c096}</Project>
       <Name>MJBException</Name>

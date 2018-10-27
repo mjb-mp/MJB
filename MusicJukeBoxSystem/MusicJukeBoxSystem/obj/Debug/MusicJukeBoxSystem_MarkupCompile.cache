@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\App.xaml
-2-419086188
+4-1339101188
 
-101332375315
+8305460256
 151984215308
-MainWindow.xaml;Login.xaml;
+CustomerRegistration.xaml;MainWindow.xaml;Login.xaml;Registration.xaml;
 
-True
+False
 

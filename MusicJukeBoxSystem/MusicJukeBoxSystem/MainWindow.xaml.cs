@@ -28,7 +28,15 @@ namespace MusicJukeBoxSystem
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             UserControl1 Main = new UserControl1();
+            main.Children.Clear();
             main.Children.Add(Main);
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            CustomerRegistration customer = new CustomerRegistration();
+            main.Children.Clear();
+            main.Children.Add(customer);
         }
     }
 }
