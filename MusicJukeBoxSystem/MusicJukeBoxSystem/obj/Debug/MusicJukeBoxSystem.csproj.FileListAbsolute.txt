@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\bin\Debug\MusicJukeBoxSystem.exe.config
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\bin\Debug\MusicJukeBoxSystem.exe
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\bin\Debug\MusicJukeBoxSystem.pdb
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem_MarkupCompile.cache
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem_MarkupCompile.lref
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem.g.resources
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem.exe
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\MusicJukeBoxSystem.pdb
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\Login.g.cs
+C:\Users\Administrator\Desktop\MJB\MusicJukeBoxSystem\MusicJukeBoxSystem\obj\Debug\Login.baml
